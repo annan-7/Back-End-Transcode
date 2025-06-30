@@ -255,6 +255,3 @@ Check the console output for detailed logs including:
 - Error messages
 - System information
 
-## License
-
-MIT License - see LICENSE file for details. 
